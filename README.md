@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,23 +23,21 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview](images/Screenshot.png?raw=true)
+![Preview](assets/images/Screenshot.png)
 
 ### Links
 
-- Solution URL: (https://github.com/OElmraghy/Results-summary-component)
-- Live Site URL: (https://oelmraghy.github.io/Results-summary-component/)
+- Solution URL: (https://github.com/OElmraghy/Recipe-Page)
+- Live Site URL: (https://oelmraghy.github.io/Recipe-Page)
 
 ## My process
 
 ### Built with
 
 - CSS custom properties
-- Flexbox
 - Desktop-first workflow
 
 ## Author
 
 - Frontend Mentor - [@OElmraghy](https://www.frontendmentor.io/profile/OElmraghy)
 - Twitter - [@OElmraghy](https://www.twitter.com/OElmraghy)
-
